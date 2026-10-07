@@ -1,4 +1,4 @@
-PROLOG LAB PROGRAMS & MINI PROJECT
+PROLOG LAB PROGRAMS & PROJECT
 
 This repository contains my Prolog laboratory programs and mini project.
 
